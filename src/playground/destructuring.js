@@ -56,4 +56,4 @@ const item = ["Coffee (hot)", "$3.00", "$3.50", "$3.75"];
 const [itemName, , mediumPrice] = item;
 
 //grab first and third items using array destructuring
-console.log(`A medium ${itemName} costs ${mediumPrice}`);
+// console.log(`A medium ${itemName} costs ${mediumPrice}`);
